@@ -1,0 +1,11 @@
+
+# Teleportings
+u_tp cinema 95 151 65
+u_tp diroccato 98 77 -14
+u_tp diroccata 98 77 -14
+u_tp tetto 9 201 9
+u_tp casa 204 202 227
+u_tp ufficio 204 202 227
+u_tp test 1002 102 1002
+u_tp piattaforma 1002 102 1002
+

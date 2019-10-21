@@ -1,0 +1,20 @@
+lastAccountName: wayl
+timestamps:
+  login: 1571566894690
+  logout: 1571569866492
+ipAddress: 127.0.0.1
+logoutlocation:
+  world: world
+  x: 5000.680723916267
+  y: 68.36819527715333
+  z: 5003.232202543985
+  yaw: 122.99872
+  pitch: 5.6999674
+afk: false
+lastlocation:
+  world: world
+  x: 100.5
+  y: 64.0
+  z: 100.5
+  yaw: 101.54871
+  pitch: -14.100022
