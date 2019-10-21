@@ -1,0 +1,2 @@
+# Run InfoCraft
+# docker run -it -d -p 25565:25565 minecraft:infocraft
